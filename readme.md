@@ -74,7 +74,7 @@ cd 到jar包目录，执行`java -jar xxxx.jar`(xxxx.jar为打包好的jar)
 
 ## 结果
 
-`http://localhost:8080/jar`
+浏览器运行`http://localhost:8080/jar`
 
 <img src="img/result.png"/>
 
